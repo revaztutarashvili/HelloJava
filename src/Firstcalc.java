@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Firstcalc {
-    public static void main(String[] args) {
+    public static void main(String[] args) {    //this code make multiple inputed numbers
 
         Scanner scannerobject = new Scanner(System.in);
         System.out.print("Hi, write your number to multip:");
